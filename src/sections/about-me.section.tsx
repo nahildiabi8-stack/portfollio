@@ -30,7 +30,7 @@ const timeline = [
 				title: 'Formation Développeur ',
 				place: 'Garage404, Saint Etienne Rue Tarentaize',
 				timePeriod: '2022 - Present',
-				description: "J'ai récamment rejoins cette formation pour devenir un développeur, je suis fascinée par le backend et j'aimerais devenir un expert sur PHP.",
+				description: "J'ai récamment rejoins cette formation pour devenir un développeur, je suis fascinée par le backend et j'aimerais devenir un expert en PHP.",
 			},
 		],
 	},
