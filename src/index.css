@@ -32,6 +32,7 @@ html {
 }
 
 body {
+	user-select: none;
 	font-family: 'Fugaz One', sans-serif;
 	font-weight: 400;
 	font-style: normal;
