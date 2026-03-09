@@ -9,7 +9,7 @@ export const InfoSection = () => {
 	return (
 		<div className='hero-section'>
 			<a
-				href='https://github.com/Abdullahiqbal2021/portfolio-latest'
+				href='https://github.com/nahildiabi8-stack/portfollio'
 				target='_blank'
 				rel='noopener noreferrer'
 				className='github-ribbon'
