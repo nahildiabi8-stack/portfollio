@@ -14,11 +14,11 @@ export const InfoSection = () => {
 				rel='noopener noreferrer'
 				className='github-ribbon'
 			>
-				<div>⭐ Star this repo</div>
+				<div>⭐ Star ce repo</div>
 				<span></span>
 			</a>
 			<FloatingButton
-				label='About Me'
+				label='A Propos De Moi'
 				className='first'
 				href='/#about-me'
 			/>
